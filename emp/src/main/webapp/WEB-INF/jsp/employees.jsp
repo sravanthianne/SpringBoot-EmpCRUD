@@ -13,23 +13,6 @@ a {
 	text-decoration: none;
 }
 
-.divProducts {
-	list-style: none;
-	text-align: center;
-	*width: 60%;
-	margin: 0 20%;
-}
-
-ul.products li {
-	padding-left: 20px;
-	width: 200px;
-	list-style: none;
-	float: left;
-	*display: inline;
-	*zoom: 1;
-	*border: 1px black solid;
-}
-
 h1 {
 	font-size: 40px;
 	color: Green;
